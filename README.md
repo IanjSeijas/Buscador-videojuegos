@@ -4,6 +4,7 @@ Este proyecto es una parte funcional de **What's Next**, una biblioteca de video
 
 ## 📂 Estructura del Proyecto
 📁 buscador-videojuegos/
+
 ├── buscador-videojuegos.php ← Archivo principal con la lógica del buscador (PHP + HTML)
 
 ├── css/
