@@ -9,7 +9,7 @@ Este proyecto es una parte funcional de **What's Next**, una biblioteca de video
 
 ├── css/
 
-│ └── Style.css ← Estilos del buscador
+└── Style.css ← Estilos del buscador
 
 ├── README.md
 
